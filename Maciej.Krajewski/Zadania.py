@@ -1,3 +1,3 @@
 dane = open("australian.txt", "r")
 
-print(dane)
+print(dane.read())
