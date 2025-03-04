@@ -115,3 +115,4 @@ print(df.head())
 
 # Zapisanie zmienionego DataFrame do nowego pliku CSV (opcjonalnie)
 df.to_csv('Churn_Modelling_with_dummies.csv', index=False)
+print(dane.read())
